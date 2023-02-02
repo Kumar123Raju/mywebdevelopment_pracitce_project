@@ -1,0 +1,266 @@
+*{
+        padding: 0px;
+        margin: 0px;
+}
+header{
+        border-bottom:  1px solid black;
+        border-top: 1px solid  white;
+        /* background-color: #3D5E9A; */
+        background-color: black;
+        height: 80px;
+        width: auto;
+        padding: 0px;
+        margin: 0px;
+}
+.facebook-logo{
+        width: 50%;
+        float: left;
+}
+.login{
+        
+        float: left;
+        margin-top: 10px;
+       margin-left: 100px;
+        width: 40%;
+        
+}
+.facebook-logo img{
+       
+        height: 40px;
+        padding-left: 200px;
+       padding-top:25px;
+                     
+}
+.email{
+        
+        width: 35%;
+        float: left;
+}
+.email label{
+        font-size: 13px;
+}
+.pasword{
+        
+        width: 35%;
+        float: left;
+}
+.pasword label{
+        font-size: 13px;
+}
+.pasword a{
+        font-size: 13px;
+        text-decoration: none;
+        color: #9CB4D8;
+}
+/* .login-button{
+        width: 10%;
+        float:left;
+        margin-top: 10px;
+} */
+.login label{
+        color: white;
+        
+}
+.email input{
+        width: 155px;
+        
+        
+}
+.pasword input{
+        width: 155px;
+        
+}
+.login-button{
+        
+        margin-top:15px;
+       
+        
+}
+
+.login-button input[type="submit"]{
+        /* background-color: #4267B2;; */
+        background-color: #FFAE0D;
+        color:white;
+        border-radius: 3px;
+        border: 2px solid #FFAE0D;
+        width: 10%;
+        height: 25px;
+       font-style: normal;
+}
+header input:hover[type="submit"],a:hover{
+        background-color: rgb(72, 168, 175);
+}
+/* .login-button input:hover[type="submit"]{
+
+
+} */
+/* content block  start*/
+.clearfix{
+        clear:both;
+        
+}
+.content-block{
+        float:right;
+        margin: 10px auto;
+        padding-top: 25px;
+        border: 2px solid black;
+        width: 100%;
+        height: 450px;
+        /* background-color: #EBEDF5; */
+        background-color: #c1c1bf;
+        
+}
+.content-logo{
+        width: 38%;
+        /* border: 2px solid; */
+        float:left;
+        margin-left: 10%;
+        
+
+
+
+}
+.form-content{
+        width: 30%;
+        /* border: 2px solid; */
+        float:left;
+
+        margin-left: 10%;
+       
+
+}
+.content-logo img{
+        height: 250px;
+        width: 450px;
+        border-radius: 50px;
+        margin-top: 15px;
+        
+
+        
+}
+.content-block p{
+        margin-left: 10px;
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+      
+       
+        
+}
+#hint{
+        color:#0E385F
+}
+.account input[type=submit]{
+        /* background-color: #62A14F; */
+        background-color: #FFAE0D;
+        width: 40%;
+        height: 40px;
+        border-radius: 6px;
+        font-weight: bold;
+        color:white;
+        border:1px solid black;
+}
+
+/* .first{
+        width: 30%;
+        color:white;
+       height: 120px;
+        float:left;
+
+}
+.second{
+        
+        float:left;
+}
+.third{
+        width:30%
+        float:left;
+} */
+
+.footer_block{
+        background-color: black;
+       
+      
+       
+}
+.footer_block h2{
+        color: BLACK;
+
+}
+ .first{
+        border: 2px solid black;
+        float:left;
+        margin-left: 45%;
+        
+       
+}
+
+
+
+
+
+
+
+/* .content-block{
+        border-style: solid;
+       width: 100%;
+       margin: 0 auto;
+      
+}
+.content-block p{
+       
+        color:#0E385F;
+        font-weight: bold;
+        font-size: 25px;
+      
+       
+        
+}
+.content-logo{
+        border-style: solid;
+        float:left;
+       
+        
+       
+}
+
+.content-logo img{
+        height: 200px;
+        width: 450px;
+        
+}
+.content-logo{
+        background-color: #EBEEF;
+       margin-top: 60px;
+       margin-left: 100px;
+      
+}
+.form-content{
+      
+        border-style: solid;
+        float:left;
+        
+        margin-top: 60px;
+       
+      
+        background-color: #EBEEF5;
+}
+.account{
+        padding: 10px;
+} */
+
+
+/* content block end */
+
+
+
+/* .email input {
+        width: 100px;
+        margin-top: 30px;
+       
+} */
+/* .pasword input {
+        width: 100px;
+        margin-top: 30px;
+} */
+
